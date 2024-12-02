@@ -80,3 +80,6 @@ Enter Rate of Interest: 5
 Enter Time period (in years): 2
 Simple Interest: 100.0
    ```
+## Licence
+
+This project is licensed under the Apache License 2.0. You are free to use, modify, and distribute this software under the terms of the license.
